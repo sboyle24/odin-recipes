@@ -1,1 +1,2 @@
 # odin-recipes
+This is my effort to complete my first project from the Odin Project. Unfortunately I did have a bit of a break before starting on this due to life circumstances but I am all the more committed for this reason
